@@ -4,7 +4,7 @@
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following technologies were included:
 
 * [x] Kotlin
 * [x] Coroutines
